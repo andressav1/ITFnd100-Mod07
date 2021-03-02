@@ -16,7 +16,7 @@ User Defined Functions (UDFs) is SQL code that performs actions, such as a compl
 
 Figure 2 below shows the syntax used to create a table UDF. Notice how the RETURNS TABLE command specifies that the function will return a table and there is no BEGIN or END statements. 
 
-![alt text](https://github.com/andressav1/ITFnd100-Mod07/blob/main/Screen%20Shot%202021-03-01%20at%208.53.37%20PM.png "tooltip text")
+![alt text](https://github.com/andressav1/ITFnd100-Mod07/blob/main/Screen%20Shot%202021-03-01%20at%208.53.46%20PM.png "tooltip text")
 **Figure 2: Table UDF Syntax**
 
 ### Scalar, Inline, and Multi-Statement Functions 
