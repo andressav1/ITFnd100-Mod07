@@ -23,7 +23,7 @@ Figure 2 below shows the syntax used to create a table UDF. Notice how the RETUR
 
 Scalar UDFs take one or more parameters and return a single data value. The main benefit of using a scalar function is that it simplifies the code. For example, if there is a complex calculation that appears in many queries, a scalar function can be created to replace the calculation in each query. An inline table-valued function is an UDF that returns data of a table type. A multi-statement table-valued function is a table-valued function that returns the result of multiple statements. The multi-statement-table-valued function is very useful because it allows execution of multiple queries within the function and to aggregate results into the returned table. Figure 3 below shows how a simple Scalar UDF can be created to add two numbers. 
 
-![alt text](https://github.com/andressav1/ITFnd100-Mod07/blob/main/Screen%20Shot%202021-03-01%20at%208.53.37%20PM.png "tooltip text")
+![alt text](https://github.com/andressav1/ITFnd100-Mod07/blob/main/Screen%20Shot%202021-03-01%20at%208.53.59%20PM.png "tooltip text")
 **Figure 3: Creating a Simple Scalar UDF**
 
 ## Conclusion
